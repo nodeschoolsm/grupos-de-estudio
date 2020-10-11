@@ -1,0 +1,19 @@
+name: Builds and updates README
+on:
+  push:
+    branches: [master]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "10"
+      - name: Building README.md
+        run: node README.js
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: updates README.md
