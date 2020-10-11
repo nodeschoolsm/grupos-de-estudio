@@ -109,7 +109,7 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
 </tbody>
 </table>
   
-## ReactJS Team
+## React Team
 <table>
 <tbody>
 <tr>
