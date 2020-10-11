@@ -29,7 +29,7 @@ const timing = {
   plus: "Más de 3 horas por semana",
 }
 
-module.exports.mentors = [
+const mentors = [
   {
     exp: exp.pro,
     name: "Gerardo Lopéz",
@@ -79,3 +79,9 @@ module.exports.mentors = [
       "https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg",
   },
 ]
+module.exports = {
+  teams,
+  exp,
+  timing,
+  mentors,
+}

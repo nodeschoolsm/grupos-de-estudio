@@ -29,11 +29,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 1 - 2 Años de exp.</sub><br/>
   <sub>🤖 nhulox97</sub><br/>
   <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## AWS Team
 <table>
 <tbody>
@@ -50,11 +50,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## NodeJS Team
 <table>
 <tbody>
@@ -77,11 +77,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## JavaScript Team
 <table>
 <tbody>
@@ -104,12 +104,12 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
-## ReactJS Team
+
+## React Team
 <table>
 <tbody>
 <tr>
@@ -119,11 +119,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 mariomenjr</sub><br/>
   <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## English Team
 <table>
 <tbody>
@@ -140,11 +140,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## CSharp Team
 <table>
 <tbody>
@@ -155,11 +155,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 mariomenjr</sub><br/>
   <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## VueJS Team
 <table>
 <tbody>
@@ -170,11 +170,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## Git Team
 <table>
 <tbody>
@@ -185,11 +185,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 ## Ruby Team
 <table>
 <tbody>
@@ -200,11 +200,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-  
+
 </tr>
 </tbody>
 </table>
-  
+
 
 > Si no existe un mentor para el equipo de tu elección, puedes proponerte tu cómo mentor del equipo en [este formulario](https://airtable.com/shrwxW2ItRVrAyIJ6)
 
