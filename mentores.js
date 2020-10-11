@@ -1,15 +1,21 @@
 // Do not modify , file linked with Airtable
 const teams = {
+  vue: "VueJS",
   python: "Python",
-  aws: "AWS",
-  node: "NodeJS",
   js: "JavaScript",
+  node: "NodeJS",
+  react: "React",
+  ruby: "Ruby",
+  angular: "Angular",
+  aws: "AWS",
+  fcc: "Free Code Camp",
+  git: "Git",
+  flutter: "Flutter",
   csharp: "CSharp",
-  react: "ReactJS",
+  swift: "Swift",
+  php: "PHP",
   eng: "English",
   git: "Git",
-  ruby: "Ruby",
-  vue: "VueJS",
 }
 const exp = {
   novice: "Principiante/Entusiasta",
@@ -64,7 +70,7 @@ module.exports.mentors = [
       teams.node,
       teams.git,
       teams.ruby,
-      teams.js
+      teams.js,
     ],
     timing: timing.plus,
     discord: "Juan Trejo",
