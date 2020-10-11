@@ -108,7 +108,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
 </tr>
 </tbody>
 </table>
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> f5ef9298b9aa154053ae6a88bc0f08359dc5b49c
 ## React Team
 <table>
 <tbody>
