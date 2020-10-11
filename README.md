@@ -13,6 +13,21 @@ Para unirte a un grupo de estudios debes seleccionar un "emoji" dentro del serve
 En el server existen muchos mentores para cada equipo, todos los equipos y sus mentores se listarán a continuación.
 
 
+## VueJS Team
+<table>
+<tbody>
+<tr>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
+  <sub>🧒 Juan Trejo</sub><br/>
+  <sub>⏰ Más de 3 horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 Juan Trejo</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
+  
+</tr>
+</tbody>
+</table>
+  
 ## Python Team
 <table>
 <tbody>
@@ -29,59 +44,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 1 - 2 Años de exp.</sub><br/>
   <sub>🤖 nhulox97</sub><br/>
   <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
-
+  
 </tr>
 </tbody>
 </table>
-
-## AWS Team
-<table>
-<tbody>
-<tr>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482745731121244/46210069_2008385289255990_3372877451507007488_o.jpg"/><br/>
-  <sub>🧒 Gerardo Lopéz</sub><br/>
-  <sub>⏰ Más de 3 horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 glop97#0298</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/gerardev_">@gerardev_</a></sub></sub></td>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
-  <sub>🧒 Juan Trejo</sub><br/>
-  <sub>⏰ Más de 3 horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 Juan Trejo</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
-</tr>
-</tbody>
-</table>
-
-## NodeJS Team
-<table>
-<tbody>
-<tr>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756708191626330202/perfil.png"/><br/>
-  <sub>🧒 Sergio Bernal</sub><br/>
-  <sub>⏰ 3 Horas por semana</sub><br/>
-  <sub>🧪 1 - 2 Años de exp.</sub><br/>
-  <sub>🤖 nhulox97</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482403266068480/86460255_2995952337105658_6291319162341949440_o.jpg"/><br/>
-  <sub>🧒 Mario Menjívar</sub><br/>
-  <sub>⏰ 2 Horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 mariomenjr</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
-  <sub>🧒 Juan Trejo</sub><br/>
-  <sub>⏰ Más de 3 horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 Juan Trejo</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
-</tr>
-</tbody>
-</table>
-
+  
 ## JavaScript Team
 <table>
 <tbody>
@@ -104,15 +71,38 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
+  
 </tr>
 </tbody>
 </table>
-<<<<<<< HEAD
-
-=======
   
->>>>>>> f5ef9298b9aa154053ae6a88bc0f08359dc5b49c
+## NodeJS Team
+<table>
+<tbody>
+<tr>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756708191626330202/perfil.png"/><br/>
+  <sub>🧒 Sergio Bernal</sub><br/>
+  <sub>⏰ 3 Horas por semana</sub><br/>
+  <sub>🧪 1 - 2 Años de exp.</sub><br/>
+  <sub>🤖 nhulox97</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482403266068480/86460255_2995952337105658_6291319162341949440_o.jpg"/><br/>
+  <sub>🧒 Mario Menjívar</sub><br/>
+  <sub>⏰ 2 Horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 mariomenjr</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
+  <sub>🧒 Juan Trejo</sub><br/>
+  <sub>⏰ Más de 3 horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 Juan Trejo</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
+  
+</tr>
+</tbody>
+</table>
+  
 ## React Team
 <table>
 <tbody>
@@ -123,11 +113,122 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 mariomenjr</sub><br/>
   <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
-
+  
 </tr>
 </tbody>
 </table>
-
+  
+## Ruby Team
+<table>
+<tbody>
+<tr>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
+  <sub>🧒 Juan Trejo</sub><br/>
+  <sub>⏰ Más de 3 horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 Juan Trejo</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
+  
+</tr>
+</tbody>
+</table>
+  
+## Angular Team
+<table>
+<tbody>
+<tr>
+  
+</tr>
+</tbody>
+</table>
+  
+## AWS Team
+<table>
+<tbody>
+<tr>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482745731121244/46210069_2008385289255990_3372877451507007488_o.jpg"/><br/>
+  <sub>🧒 Gerardo Lopéz</sub><br/>
+  <sub>⏰ Más de 3 horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 glop97#0298</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/gerardev_">@gerardev_</a></sub></sub></td>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
+  <sub>🧒 Juan Trejo</sub><br/>
+  <sub>⏰ Más de 3 horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 Juan Trejo</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
+  
+</tr>
+</tbody>
+</table>
+  
+## Free Code Camp Team
+<table>
+<tbody>
+<tr>
+  
+</tr>
+</tbody>
+</table>
+  
+## Git Team
+<table>
+<tbody>
+<tr>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
+  <sub>🧒 Juan Trejo</sub><br/>
+  <sub>⏰ Más de 3 horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 Juan Trejo</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
+  
+</tr>
+</tbody>
+</table>
+  
+## Flutter Team
+<table>
+<tbody>
+<tr>
+  
+</tr>
+</tbody>
+</table>
+  
+## CSharp Team
+<table>
+<tbody>
+<tr>
+  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482403266068480/86460255_2995952337105658_6291319162341949440_o.jpg"/><br/>
+  <sub>🧒 Mario Menjívar</sub><br/>
+  <sub>⏰ 2 Horas por semana</sub><br/>
+  <sub>🧪 Más de 2 años de exp.</sub><br/>
+  <sub>🤖 mariomenjr</sub><br/>
+  <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
+  
+</tr>
+</tbody>
+</table>
+  
+## Swift Team
+<table>
+<tbody>
+<tr>
+  
+</tr>
+</tbody>
+</table>
+  
+## PHP Team
+<table>
+<tbody>
+<tr>
+  
+</tr>
+</tbody>
+</table>
+  
 ## English Team
 <table>
 <tbody>
@@ -144,71 +245,11 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>🧪 Más de 2 años de exp.</sub><br/>
   <sub>🤖 Juan Trejo</sub><br/>
   <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
+  
 </tr>
 </tbody>
 </table>
-
-## CSharp Team
-<table>
-<tbody>
-<tr>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482403266068480/86460255_2995952337105658_6291319162341949440_o.jpg"/><br/>
-  <sub>🧒 Mario Menjívar</sub><br/>
-  <sub>⏰ 2 Horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 mariomenjr</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/mariomenjr">@mariomenjr</a></sub></sub></td>
-
-</tr>
-</tbody>
-</table>
-
-## VueJS Team
-<table>
-<tbody>
-<tr>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
-  <sub>🧒 Juan Trejo</sub><br/>
-  <sub>⏰ Más de 3 horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 Juan Trejo</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
-</tr>
-</tbody>
-</table>
-
-## Git Team
-<table>
-<tbody>
-<tr>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
-  <sub>🧒 Juan Trejo</sub><br/>
-  <sub>⏰ Más de 3 horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 Juan Trejo</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
-</tr>
-</tbody>
-</table>
-
-## Ruby Team
-<table>
-<tbody>
-<tr>
-  <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482827247157310/2290322.jpeg"/><br/>
-  <sub>🧒 Juan Trejo</sub><br/>
-  <sub>⏰ Más de 3 horas por semana</sub><br/>
-  <sub>🧪 Más de 2 años de exp.</sub><br/>
-  <sub>🤖 Juan Trejo</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/_trejosv">@_trejosv</a></sub></sub></td>
-
-</tr>
-</tbody>
-</table>
-
+  
 
 > Si no existe un mentor para el equipo de tu elección, puedes proponerte tu cómo mentor del equipo en [este formulario](https://airtable.com/shrwxW2ItRVrAyIJ6)
 
