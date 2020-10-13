@@ -43,7 +43,7 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>⏰ 3 Horas por semana</sub><br/>
   <sub>🧪 1 - 2 Años de exp.</sub><br/>
   <sub>🤖 nhulox97</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
+  <sub>🐦 <a href="https://twitter.com/sergio_dosv">@sergio_dosv</a></sub></sub></td>
   
 </tr>
 </tbody>
@@ -58,7 +58,7 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>⏰ 3 Horas por semana</sub><br/>
   <sub>🧪 1 - 2 Años de exp.</sub><br/>
   <sub>🤖 nhulox97</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
+  <sub>🐦 <a href="https://twitter.com/sergio_dosv">@sergio_dosv</a></sub></sub></td>
   <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482403266068480/86460255_2995952337105658_6291319162341949440_o.jpg"/><br/>
   <sub>🧒 Mario Menjívar</sub><br/>
   <sub>⏰ 2 Horas por semana</sub><br/>
@@ -85,7 +85,7 @@ En el server existen muchos mentores para cada equipo, todos los equipos y sus m
   <sub>⏰ 3 Horas por semana</sub><br/>
   <sub>🧪 1 - 2 Años de exp.</sub><br/>
   <sub>🤖 nhulox97</sub><br/>
-  <sub>🐦 <a href="https://twitter.com/nodeschoolsm">@nodeschoolsm</a></sub></sub></td>
+  <sub>🐦 <a href="https://twitter.com/sergio_dosv">@sergio_dosv</a></sub></sub></td>
   <td><img width="180" src="https://cdn.discordapp.com/attachments/756482229009514507/756482403266068480/86460255_2995952337105658_6291319162341949440_o.jpg"/><br/>
   <sub>🧒 Mario Menjívar</sub><br/>
   <sub>⏰ 2 Horas por semana</sub><br/>
