@@ -46,7 +46,7 @@ const mentors = [
     teams: [teams.python, teams.node, teams.js],
     timing: timing.h3,
     discord: "nhulox97",
-    twitter: "nodeschoolsm",
+    twitter: "sergio_dosv",
     image:
       "https://cdn.discordapp.com/attachments/756482229009514507/756708191626330202/perfil.png",
   },
